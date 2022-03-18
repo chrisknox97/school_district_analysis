@@ -196,17 +196,22 @@ Similar to our analyis on school spending and school size, we know that "Thomas 
  
  ![Revised_Type](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Type.png)
 
-## School District Analysis Summary
+## Analysis & Summary
 
+Ultimately, the impact of removing the 461 "Thomas High School" ninth graders from our dataset had minimal impact on the overall school district test scores and testing averages, which is rather optimal. However there are a few changes that still occured, there are listed below: 
+
+### District Summary
+
+* The Average Math Score decreased from 79.0 to 78.9 
+* The Percentage of Students Passing Math decreased from 75 to 74.8 
+* The Percentage of Students Passing Reading decreased from 85.8 to 85.7
+* The Percentage of Students Passing Overall decreased from 65.2 to 64.9
+
+### Thomas High School Summary
+
+* The Average Math Score decreased from 83.42 to 83.35
+* The Average Reading Score increased from 83.85 to 83.90
+* The Percentage of Students Passing Math decreased from 93.27 to 93.19
+* The Percentage of Students Passing Reading decreased from 97.31 to 97.02
+* The Percentage of Students Passing Overall decreased from 90.95 to 90.63
  
-     
-     
-
-     
-    
-
-
-    
-
-   
-
