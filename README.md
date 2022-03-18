@@ -106,8 +106,14 @@ From here, the new counts can be used to calculate new percentages of students p
     
     # Substitute the Old Overall Passing Percentage with An Updated One
     per_school_summary_df.loc[["Thomas High School"], ["% Overall Passing"]] = clean_thomas_percentage
+    
+    Prior to Removal of Academic Dishonesty
+    
+![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png)
 
+    After Removal of Academic Dishonesty
 
+![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School.png)
 
 
  
