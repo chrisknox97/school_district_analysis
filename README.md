@@ -174,7 +174,7 @@ We know from our ``school_summary`` data frame, that "Thomas High School" spends
 
    * **Test Scores by School Size**
 
-Once again from our ``school_summary`` data frame we know that "Thomas High School" has 1,635 students, placing it in the Medium (1000-1999 students) category. As such this is the only category that may seen in impact from this analysis. 
+Once again from our ``school_summary`` data frame we know that "Thomas High School" has 1,635 students, placing it in the Medium (1000-1999 students) category. As such this is the only category that may seen in impact from this analysis. And once again, we find either a negligable or non-existent impact on our test scores. 
 
     Prior to Removal of Academic Dishonesty
     
@@ -184,6 +184,19 @@ Once again from our ``school_summary`` data frame we know that "Thomas High Scho
  
  ![Revised_Size](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School_Size.png)
  
+   * **Test Scores by School Type**
+
+Similar to our analyis on school spending and school size, we know that "Thomas High School" is a Charter school based on information in the ``school_summary`` data frame. Thus, our impact would be limited to Charter schools, and once again the impact was negible at best. 
+
+    Prior to Removal of Academic Dishonesty
+
+ ![Dishonest_Type](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Type.png)
+ 
+     After Removal of Academic Dishonesty
+ 
+ ![Revised_Type](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Type.png)
+
+## School District Analysis Summary
 
  
      
