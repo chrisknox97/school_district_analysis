@@ -46,13 +46,11 @@ With these new scripts, we are able to assemble a new data frame and compare it 
 
     Prior to Removal of Academic Dishonesty
 
-![Dishonest_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png)
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png" height="300">
 
     After Removal of Academic Dishonesty
 
-![Revised_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png)
-
-**Please Note:** The ``new_count`` was added to this data frame for clarity, showing which data frame removed the dishonest students' test results. However in the future, we would continue to the old ``student_count`` as altering the total student data could affect calculations such as ``per_capita_spending``. 
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png" height="300">
 
 * **School Summary**
 
