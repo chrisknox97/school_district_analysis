@@ -46,11 +46,11 @@ With these new scripts, we are able to assemble a new data frame and compare it 
 
     Prior to Removal of Academic Dishonesty
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png" height="300">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png" height="100">
 
     After Removal of Academic Dishonesty
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png" height="300">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png" height="100">
 
 * **School Summary**
 
