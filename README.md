@@ -136,6 +136,8 @@ After removing the academically dishonest test scores, we were concerned about h
 Finally, we were also concerned about how the removal of the academically dishonest test scores would affect other parameters including: math and reading scores, scores by school spending, scores by school size, and scores by school type.
     
    * **Test Scores**
+
+Since, each grades' test scores are independent of the others, we knew the removal of "Thomas High School" ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, "Thomas High School" had the second-highest average math scores of any ninth grade in the school district and tied for the fifth-highest reading scores with the same parameters. As a result, both the average math scores for ninth graders and the average reading scores for ninth graders would be expected to fall for the school district, with the former doing so more sharply than the latter. 
     
     Math Scores (Dishonest: Left, Revised: Right)
 
