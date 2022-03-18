@@ -137,7 +137,7 @@ Finally, we were also concerned about how the removal of the academically dishon
     
    * **Test Scores**
 
-Since, each grades' test scores are independent of the others, we knew the removal of "Thomas High School" ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, "Thomas High School" had the second-highest average math scores of any ninth grade in the school district and tied for the fifth-highest reading scores with the same parameters. As a result, both the average math scores for ninth graders and the average reading scores for ninth graders would be expected to fall for the school district, with the former doing so more sharply than the latter. 
+Since, each grades' test scores are independent of the others, we knew the removal of "Thomas High School" ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, "Thomas High School" had the second-highest average math scores of any ninth grade in the school district and tied for the fifth-highest reading scores with the same parameters.
     
     Math Scores (Dishonest: Left, Revised: Right)
 
@@ -159,7 +159,7 @@ Since, each grades' test scores are independent of the others, we knew the remov
 
 </p>
 
-
+As a result, both the average math scores for ninth graders and the average reading scores for ninth graders would be expected to fall for the school district, with the former doing so more sharply than the latter. Indeed, this difference in the drops can be seen in the ``district_summary`` above, where the removal of grades decreased the average math score for the district by 0.1 but failed to register the same impact for the district's average reading score. 
 
  
      
