@@ -162,11 +162,19 @@ As a result, both the average math scores for ninth graders and the average read
 
    * **Test Scores by School Spending**
 
+We know from our ``school_summary`` data frame, that "Thomas High School" spends approximately $638 per student. So when checking how the removal of dishonest test scores from affects test scores based on school spending, only one range could be affected ($631-$635 per student). When we do check this bin, we ultimately find virtually no change in the test results, indicating the removal of test scores has either no or a negible effect on the outcome. 
 
+    Prior to Removal of Academic Dishonesty
 
 ![Dishonest_Spending](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School_Spending.png)
 
+    After Removal of Academic Dishonesty
+
 ![Revised_Spending](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School_Spending.png)
+
+   * **Test Scores by School Size**
+
+
 
  
 
