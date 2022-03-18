@@ -107,7 +107,7 @@ From here, the new counts can be used to calculate new percentages of students p
     # Substitute the Old Overall Passing Percentage with An Updated One
     per_school_summary_df.loc[["Thomas High School"], ["% Overall Passing"]] = clean_thomas_percentage
     
-With these new calculations all three percentages tracked, ``per_school_passing_math``, ``per_school_passing_reading``, and ``per_overall_passing_percent`` all declined, with the later decreasing by approximately 0.3%. This drop was relatively similar to the one seen in ``new_overall_passing_percentage`` in our ``district_summary``. 
+With these new calculations all three percentages tracked, ``per_school_passing_math``, ``per_school_passing_reading``, and ``per_overall_passing_percent`` declined, with the later decreasing by approximately 0.3%. This drop was relatively similar to the one seen in ``new_overall_passing_percentage`` in our ``district_summary``. 
     
     Prior to Removal of Academic Dishonesty
     
