@@ -43,7 +43,10 @@ Once we've established our ``new_count``, we are abble to calculate the new perc
     new_passing_overall_percentage = overall_passing_math_reading_count / float(new_count) *100
 
 With these new scripts, we are able to assemble a new data frame and compare it against the previous data frame. 
-    
+
+![Dishonest_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png)
+
+![Revised_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png)
     
 
    
