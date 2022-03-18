@@ -121,6 +121,14 @@ With these new calculations all three percentages tracked, ``per_school_passing_
 
 * **Thomas High School Vs. Comparative High Schools**
 
+      Prior to Removal of Academic Dishonesty
+    
+![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Top5.png)
+
+    After Removal of Academic Dishonesty
+   
+![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Top5.png)
+
 
 
  
