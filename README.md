@@ -17,13 +17,13 @@ To better represent the local school board's testing data, we first calculated t
 
     dropped_score_count = dropped_scores["student_name"].count()
     
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------
 
     Get the Total "Student_Count"
 
     student_count = school_data_complete_df["Student ID"].count()
     
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------
     
     Subtract the "Dropped_Score_Count" from the "Student Count"
 
@@ -33,13 +33,16 @@ To better represent the local school board's testing data, we first calculated t
 
 Once we've established our ``new_count``, we are abble to calculate the new percentages of students passing math, reading, and both subjects by subtituting ``total_count`` with ``new_count``in the following scripts: 
 
-    New Student Count Passing Reading
+New Student Count Passing Reading
+
     new_passing_reading_percentage = passing_reading_count / float(new_count) *100
     
-    New Student Count Passing Math
+New Student Count Passing Math
+
     new_passing_math_percentage = passing_math_count / float(new_count) *100
   
-    New Student Count Passing Math & Reading
+New Student Count Passing Math & Reading
+
     new_passing_overall_percentage = overall_passing_math_reading_count / float(new_count) *100
 
 With these new scripts, we are able to assemble a new data frame and compare it against the previous data frame. As this removed only 461 students from a data set of 38,701; the overall district test scores' declines were relatively minimal, never exceeding 0.3%. 
@@ -51,6 +54,47 @@ With these new scripts, we are able to assemble a new data frame and compare it 
     After Removal of Academic Dishonesty
 
 ![Revised_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_District.png)
+
+* **School Summary**
+
+For our school summary, we had to tabulate the new counts of: "Thomas High School" students in grades 10-12, "Thomas High School" students in grades 10-12 who passed their math test, "Thomas High School" students in grades 10-12 who passed their history test, and "Thomas High School" students in grades 10-12 who passed both. These counts were then used to calculate new percentages of students passing each respective field. The script to tabulate and calculate this new summary is posted below: 
+
+
+Calculate The Number of Students in Grades 10-12 at "Thomas High School"
+
+    thomas_tenth_graders = student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & 
+    (student_data_df["grade"] == "10th")]
+    thomas_eleventh_graders = student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") &
+    (student_data_df["grade"] == "11th")]
+    thomas_twelfth_graders = student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & 
+    (student_data_df["grade"] == "12th")]
+
+    clean_thomas_score_count = thomas_tenth_graders["student_name"].count() + thomas_eleventh_graders["student_name"].count() +               thomas_twelfth_graders["student_name"].count()
+ 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Calculate the Total Number of "Thomas High School" Students Who Passed Math
+
+    thomas_passing_math_count = school_data_complete_df[(school_data_complete_df["school_name"] == "Thomas High School") &      
+    (school_data_complete_df["math_score"] >= 70)].count()["student_name"]
+    
+Calculate the Total Number of "Thomas High School" Students Who Passed Reading
+
+    thomas_passing_reading_count = school_data_complete_df[(school_data_complete_df["school_name"] == "Thomas High School") &  
+    (school_data_complete_df["reading_score"] >= 70)].count()["student_name"]
+    
+Calculate the Total Number of "Thomas High School" Students Who Passed Both
+
+    thomas_passing_math_reading = school_data_complete_df[(school_data_complete_df["school_name"] == "Thomas High School") & 
+    (school_data_complete_df["math_score"] >= 70) & (school_data_complete_df["reading_score"] >= 70)].count()["student_name"]
+ 
+     
+     
+
+     
+    
+
+
     
 
    
