@@ -174,8 +174,15 @@ We know from our ``school_summary`` data frame, that "Thomas High School" spends
 
    * **Test Scores by School Size**
 
+Once again from our ``school_summary`` data frame we know that "Thomas High School" has 1,635 students, placing it in the Medium (1000-1999 students) category. As such this is the only category that may seen in impact from this analysis. 
 
-
+    Prior to Removal of Academic Dishonesty
+    
+ ![Dishonest_Size](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School_Size.png)
+    
+    After Removal of Academic Dishonesty
+ 
+ ![Revised_Size](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School_Size.png)
  
 
  
