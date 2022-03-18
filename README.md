@@ -133,9 +133,20 @@ After removing the academically dishonest test scores, we were concerned about h
 
 * **Thomas High School Student Grades**
 
-Finally, we were also concerned about how the removal of the academically dishonest test scores would affect 
+Finally, we were also concerned about how the removal of the academically dishonest test scores would affect other parameters including: math and reading scores, scores by school spending, scores by school size, and scores by school type.
     
-    *
+   * **Test Scores**
+    
+    Prior to Removal of Academic Dishonesty
+
+![Dishonest_Math Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png)
+![Dishonest_Reading Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png)
+
+    After Removal of Academic Dishonesty
+    
+![Revised_Math Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Math.png)
+![Revised_Reading Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Reading.png)
+
 
 
  
