@@ -141,9 +141,9 @@ Finally, we were also concerned about how the removal of the academically dishon
 
 <p float="left">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="300" height="600">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="600" height="600">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="300" height="600">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="600" height="600">
 
 </p>
 
