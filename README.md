@@ -139,7 +139,8 @@ Finally, we were also concerned about how the removal of the academically dishon
     
     Prior to Removal of Academic Dishonesty
 
-![Dishonest_Math Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png)
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="100" height="100">
+
 ![Dishonest_Reading Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png)
 
     After Removal of Academic Dishonesty
