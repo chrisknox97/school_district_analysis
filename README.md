@@ -113,7 +113,7 @@ With these new calculations all three percentages tracked, ``per_school_passing_
     
     Prior to Removal of Academic Dishonesty
     
-![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png) =250x250
+![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png) 
 
     After Removal of Academic Dishonesty
 
@@ -137,7 +137,7 @@ Finally, we were also concerned about how the removal of the academically dishon
     
    * **Test Scores**
 
-Since, each grades' test scores are independent of the others, we knew the removal of "Thomas High School" ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, "Thomas High School" had the second-highest average math scores of any ninth grade in the school district and tied for the fifth-highest reading scores with the same parameters.
+Since, each grades' test scores are independent of the others, we knew the removal of "Thomas High School" ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, "Thomas High School" had the second-highest average math scores of any ninth grade in the school district (83.6) and tied for the fifth-highest reading scores (83.7) with the same parameters.
     
     Math Scores (Dishonest: Left, Revised: Right)
 
