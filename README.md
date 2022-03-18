@@ -17,13 +17,13 @@ To better represent the local school board's testing data, we first calculated t
 
     dropped_score_count = dropped_scores["student_name"].count()
     
-    -----------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     Get the Total "Student_Count"
 
     student_count = school_data_complete_df["Student ID"].count()
     
-    -----------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     Subtract the "Dropped_Score_Count" from the "Student Count"
 
@@ -31,15 +31,20 @@ To better represent the local school board's testing data, we first calculated t
 
 * **District Summary**
 
+Once we've established our ``new_count``, we are abble to calculate the new percentages of students passing math, reading, and both subjects by subtituting ``total_count`` with ``new_count``in the following scripts: 
 
+    New Student Count Passing Reading
+    new_passing_reading_percentage = passing_reading_count / float(new_count) *100
+    
+    New Student Count Passing Math
+    new_passing_math_percentage = passing_math_count / float(new_count) *100
+  
+    New Student Count Passing Math & Reading
+    new_passing_overall_percentage = overall_passing_math_reading_count / float(new_count) *100
 
-      district_summary_df = pd.DataFrame(
-        [{"Total Schools": school_count, 
-        "Total Students": new_count, 
-        "Total Budget": total_budget,
-        "Average Math Score": average_math_score, 
-        "Average Reading Score": average_reading_score,
-        "% Passing Math": new_passing_math_percentage,
-        "% Passing Reading": new_passing_reading_percentage,
-        "% Overall Passing": new_passing_overall_percentage}])
+With these new scripts, we are able to assemble a new data frame and compare it against the previous data frame. 
+    
+    
+
+   
 
