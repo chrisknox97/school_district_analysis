@@ -137,22 +137,25 @@ Finally, we were also concerned about how the removal of the academically dishon
     
    * **Test Scores**
     
-    Prior to Removal of Academic Dishonesty
+    Math Scores (Dishonest: Left, Revised: Right)
 
 <p float="left">
 
 <img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="500" height="600">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="500" height="600">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Math.png" width ="500" height="600">
 
 </p>
 
-    After Removal of Academic Dishonesty
-    
-![Revised_Math Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Math.png)
-![Revised_Reading Scores](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Reading.png)
+    Reading Scores (Dishonest: Left, Revised: Right)
 
-hskdhs
+<p float="left">
+
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="500" height="600">  
+
+<img src="(https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Reading.png" width ="500" height="600">  
+
+</p>
 
 
 
