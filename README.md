@@ -135,7 +135,7 @@ Finally, we were also concerned about how the removal of the academically dishon
 
    * **Test Scores by Grade**
 
-Since, each grades' test scores are independent of the others, we knew the removal of Thomas High School ninth graders would not have an effect on the grades on tenth, eleventh, or twelfth graders. However, as seen below, Thomas High School had the second-highest average math scores of any ninth grade in the school district (83.6) and tied for the fifth-highest reading scores (83.7) with the same parameters.
+Since, each grades' test scores are independent of the others, we knew the removal of Thomas High School ninth graders would not have an affect on the grades of tenth, eleventh, or twelfth graders. However, as seen below, Thomas High School had the second-highest average math scores of any ninth grade in the school district (83.6) and tied for the fifth-highest reading scores (83.7) with the same parameters.
     
     Math Scores (Dishonest: Left, Revised: Right)
 
@@ -162,7 +162,7 @@ As a result, both the average math scores for ninth graders and the average read
 
    * **Test Scores by School Spending**
 
-We know from our ``school_summary`` data frame, that Thomas High School spends approximately $638 per student. So when checking how the removal of dishonest test scores from affects test scores based on school spending, only one range could be affected ($631-$635 per student). When we do check this bin, we ultimately find virtually no change in the test results, indicating the removal of test scores has either no or a negible effect on the outcome. 
+We know from our ``school_summary`` data frame, that Thomas High School spends approximately $638 per student. So when checking how the removal of dishonest test scores affects test scores based on school spending, only one range/bin could be affected ($631-$635 per student). When we do check this bin, we ultimately find virtually no change in the test results, indicating the removal of test scores has either no or a negible effect on the outcome. 
 
     Prior to Removal of Academic Dishonesty
 
@@ -174,7 +174,7 @@ We know from our ``school_summary`` data frame, that Thomas High School spends a
 
    * **Test Scores by School Size**
 
-Once again from our ``school_summary`` data frame we know that Thomas High School has 1,635 students, placing it in the Medium (1000-1999 students) category. As such this is the only category that may seen in impact from this analysis. And once again, we find either a negligable or non-existent impact on our test scores. 
+Once again from our ``school_summary`` data frame we know that Thomas High School has 1,635 students, placing it in the Medium (1000-1999 students) category. As such this is the only category that may have seen an impact from this analysis. And once again, we find either a negligable or non-existent impact on our test scores. 
 
     Prior to Removal of Academic Dishonesty
     
@@ -186,7 +186,7 @@ Once again from our ``school_summary`` data frame we know that Thomas High Schoo
  
    * **Test Scores by School Type**
 
-Similar to our analyis on school spending and school size, we know that Thomas High School is a Charter school based on information in the ``school_summary`` data frame. Thus, our impact would be limited to Charter schools, and once again the impact was negible at best. 
+Similar to our analyses on school spending and school size, we know that Thomas High School is a Charter school based on information in the ``school_summary`` data frame. Thus, our impact would be limited to Charter schools, and once again the impact was negible at best. 
 
     Prior to Removal of Academic Dishonesty
 
@@ -198,7 +198,7 @@ Similar to our analyis on school spending and school size, we know that Thomas H
 
 ## Analysis & Summary
 
-Ultimately, the impact of removing the 461 Thomas High School ninth graders from our dataset had minimal impact on the overall school district test scores and testing averages, which is rather optimal. However there are a few changes that still occured, there are listed below: 
+Ultimately, the impact of removing the 461 Thomas High School ninth graders from our dataset had minimal impact on the overall school district test scores and testing averages, which is rather optimal. However there are a few changes that still occured, they are listed below: 
 
 ### District Summary
 
