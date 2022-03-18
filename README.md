@@ -107,6 +107,8 @@ From here, the new counts can be used to calculate new percentages of students p
     # Substitute the Old Overall Passing Percentage with An Updated One
     per_school_summary_df.loc[["Thomas High School"], ["% Overall Passing"]] = clean_thomas_percentage
     
+With these new calculations all three percentages tracked, students passing math, students passing reading, and students passing overall declined with the later decreasing by approximately 0.3%. This drop was sharper than the decline seen in the ``district_summary`` as it did not have 14 additional schools to absorb the diminishing test scores.
+    
     Prior to Removal of Academic Dishonesty
     
 ![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png)
