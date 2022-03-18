@@ -141,9 +141,9 @@ Since, each grades' test scores are independent of the others, we knew the remov
 
 <p float="left">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="450" height="600">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Math.png" width ="350" height="600">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Math.png" width ="450" height="600">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Math.png" width ="350" height="600">
 
 </p>
 
@@ -151,9 +151,9 @@ Since, each grades' test scores are independent of the others, we knew the remov
 
 <p float="left">
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="450" height="600">  
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Reading.png" width ="350" height="600">  
 
-<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Reading.png" width ="450" height="600">  
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Reading.png" width ="350" height="600">  
 
 </p>
 
