@@ -121,7 +121,9 @@ With these new calculations all three percentages tracked, ``per_school_passing_
 
 * **Thomas High School Vs. Comparative High Schools**
 
-      Prior to Removal of Academic Dishonesty
+After removing the academically dishonest test scores, we were concerned about how their new results would affect "Thomas High School"'s standing within the school district. Yet any worries were ultimately laid to rest when the high school retained its second-best ranking. The minimal declines can be seen below. 
+
+    Prior to Removal of Academic Dishonesty
     
 ![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Top5.png)
 
@@ -129,6 +131,11 @@ With these new calculations all three percentages tracked, ``per_school_passing_
    
 ![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Top5.png)
 
+* **Thomas High School Student Grades**
+
+Finally, we were also concerned about how the removal of the academically dishonest test scores would affect 
+    
+    *
 
 
  
