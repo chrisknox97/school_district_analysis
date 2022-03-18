@@ -44,7 +44,7 @@ Once we've established our ``new_count``, we are abble to calculate the new perc
 
 With these new scripts, we are able to assemble a new data frame and compare it against the previous data frame. As this removed only 461 students from a data set of 38,701; the overall district test scores' declines were relatively minimal, never exceeding 0.3%. 
 
-    Prior to Removal of Academic Dishonest
+    Prior to Removal of Academic Dishonesty
 
 ![Dishonest_District](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_District.png)
 
