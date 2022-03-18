@@ -161,6 +161,13 @@ As a result, both the average math scores for ninth graders and the average read
 
 
    * **Test Scores by School Spending**
+
+
+
+![Dishonest_Spending](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School_Spending.png)
+
+![Revised_Spending](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School_Spending.png)
+
  
 
  
