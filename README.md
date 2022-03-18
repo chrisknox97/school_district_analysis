@@ -10,18 +10,22 @@ After a local school board discovered irregularities in reading and math scores 
 
 To better represent the local school board's testing data, we first calculated the number of students in Thomas High School's ninth grade (the source of our acadmic dishonesty suspicons) and remove them from them from the total ``student_count``. The result removed test scores from 461 students to get a new count of 38,709 students. These calculations were performed by the following script: 
 
-### Specify "Thomas High School" from "School_Name" and "9th" Graders from "Grade
-  
+    Specify "Thomas High School" from "School_Name" and "9th" Graders from "Grade
+    
     dropped_scores = student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & 
     (student_data_df["grade"] == "9th")]
 
     dropped_score_count = dropped_scores["student_name"].count()
+    
+    -----------------------------------------------------------------------------------------------------------------------------
 
-### Get the Total "Student_Count"
+    Get the Total "Student_Count"
 
     student_count = school_data_complete_df["Student ID"].count()
-
-### Subtract the "Dropped_Score_Count" from the "Student Count"
+    
+    -----------------------------------------------------------------------------------------------------------------------------
+    
+    Subtract the "Dropped_Score_Count" from the "Student Count"
 
     new_count = student_count - dropped_score_count
 
