@@ -113,11 +113,11 @@ With these new calculations all three percentages tracked, ``per_school_passing_
     
     Prior to Removal of Academic Dishonesty
     
-![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png)
+![Dishonest_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_School.png =250x250)
 
     After Removal of Academic Dishonesty
 
-![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School.png)
+![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School.png =250x250)
 
 * **Thomas High School Vs. Comparative High Schools**
 
@@ -125,11 +125,11 @@ After removing the academically dishonest test scores, we were concerned about h
 
     Prior to Removal of Academic Dishonesty
     
-![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Top5.png)
+![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Dishonest_Top5.png =250x250)
 
     After Removal of Academic Dishonesty
    
-![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Top5.png)
+![Dishonest_Top5](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_Top5.png =250x250)
 
 * **Thomas High School Student Grades**
 
