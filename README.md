@@ -117,6 +117,9 @@ With these new calculations all three percentages tracked, students passing math
 
 ![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School.png)
 
+* **Thomas High School Vs. Comparative High Schools**
+
+
 
  
      
