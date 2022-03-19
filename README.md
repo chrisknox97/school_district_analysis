@@ -141,7 +141,7 @@ Finally, we were also concerned about how the removal of the academically dishon
 
    * **Test Scores by Grade**
 
-Since, each grades' test scores are independent of the others, we knew the removal of Thomas High School ninth graders would not have an affect on the grades of tenth, eleventh, or twelfth graders. However, as seen below, Thomas High School had the second-highest average math scores of any ninth grade in the school district (83.6) and tied for the fifth-highest reading scores (83.7) with the same parameters.
+Since, each grades' test scores are independent of the others, we knew the removal of Thomas High School ninth graders would not have an effect on the grades of tenth, eleventh, or twelfth graders. However, as seen below, Thomas High School had the second-highest average math scores of any ninth grade in the school district (83.6) and tied for the fifth-highest reading scores (83.7) with the same parameters.
     
     Math Scores (Dishonest: Left, Revised: Right)
 
