@@ -121,7 +121,7 @@ It was important to replace the old ``student_count`` with our ``new_count`` bec
 
     Without Added Students
     
-<img src="(https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Thomas_Missing.png" height="100">
+<img src="https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Thomas_Missing.png" height="100">
 
 * **Thomas High School Vs. Comparative High Schools**
 
