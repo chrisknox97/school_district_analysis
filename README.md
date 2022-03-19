@@ -117,6 +117,12 @@ With these new calculations, all three percentages tracked: ``per_school_passing
 
 ![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Revised_School.png)
 
+It was important to replace the old ``student_count`` with our ``new_count`` because otherwise there would be less potential passing grades against the same amount of students taking the test. The result would see Thomas High School's 90.94 percent overall passing rate drop to 65.08, a nearly 26 point drop. 
+
+    Without Added Students
+    
+![Revised_School](https://github.com/chrisknox97/school_district_analysis/blob/main/Resources/Thomas_Missing.png)
+
 * **Thomas High School Vs. Comparative High Schools**
 
 After removing the academically dishonest test scores, we were concerned about how their new results would affect Thomas High School's standing within the school district. Yet any worries were ultimately laid to rest when the high school retained its second-best ranking. The minimal declines can be seen below. 
