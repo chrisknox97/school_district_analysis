@@ -125,7 +125,7 @@ It was important to replace the old ``student_count`` with our ``new_count`` bec
 
 * **Thomas High School Vs. Comparative High Schools**
 
-After removing the academically dishonest test scores and replacing ``student_count`` with our ``new_count``, we were concerned about how their new results would affect Thomas High School's standing within the school district. Yet any worries were ultimately laid to rest when the high school retained its second-best ranking. The minimal declines can be seen below. 
+After removing the academically dishonest test scores and replacing ``student_count`` with our ``new_count``, we were concerned about how these new results would affect Thomas High School's standing within the school district. Yet any worries were ultimately laid to rest when the high school retained its second-best ranking. The minimal declines can be seen below. 
 
     Prior to Removal of Academic Dishonesty
     
